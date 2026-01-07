@@ -1,0 +1,9 @@
+# This file ensures the images directory is tracked by git
+# Replace this file by adding your actual images:
+# - profile_picture.jpg
+# - itesm_logo.png
+# - ibero_logo.png
+# - frc_logo.png
+# - ieee_logo.png
+# - flutter_project.png
+# - kotlin_project.png

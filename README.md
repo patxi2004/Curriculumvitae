@@ -23,14 +23,14 @@ I have participated in national and international robotics competitions since hi
 **Bachelor's Degree in Biomedical Engineering**  
 *2024 – 2028 (Expected)*
 
-![IBERO Logo](images/ibero_logo.png)
+![IBERO Logo](images/ibero_logo.jpg)
 
 ---
 
 ### Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM) – Campus Puebla  
 **High School Education**  
 
-![ITESM Logo](images/itesm_logo.png)
+![ITESM Logo](images/itesm_logo.jpg)
 
 During my high school years, I actively participated in robotics competitions and multidisciplinary engineering projects, developing both technical and teamwork skills.
 
@@ -50,7 +50,7 @@ During my high school years, I actively participated in robotics competitions an
 ---
 
 ### Guerra de Robots – IEEE IPN (Mexico)
-![IEEE Logo](images/ieee_logo.png)
+![IEEE Logo](images/ieee_logo.jpg)
 
 - Competitor in the **Drone Racing** category  
 - Applied electronics, control systems, and rapid decision-making in high-pressure environments  
@@ -65,7 +65,7 @@ During my high school years, I actively participated in robotics competitions an
 **Description:**  
 A mobile application designed to create, organize, sell, and manage events. Includes event creation, user interaction, and administrative features. Focused on scalability and user-friendly design.
 
-![Flutter Project](images/flutter_project.png)
+![Flutter Project](images/flutter_logo.png)
 
 ---
 
@@ -74,7 +74,7 @@ A mobile application designed to create, organize, sell, and manage events. Incl
 **Description:**  
 An Android application that allows users to schedule reminders and automate message sending. Emphasizes permission handling, background tasks, and system integration.
 
-![Kotlin Project](images/kotlin_project.png)
+![Kotlin Project](images/kotlin_logo.png)
 
 ---
 
@@ -84,7 +84,7 @@ An Android application that allows users to schedule reminders and automate mess
 - Java-based web development projects  
 
 🔗 **GitHub Portfolio:**  
-👉 *Add your GitHub link here*
+👉 *[Add your GitHub link here](https://patxi2004.github.io/Curriculumvitae/)*
 
 ---
 

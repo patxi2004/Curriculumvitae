@@ -1,0 +1,93 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Theme Variables */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --link-color: #1e90ff;
+  --header-bg: linear-gradient(120deg, #155799, #159957);
+  --section-bg: #f5f5f5;
+}
+
+[data-theme="dark"] {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --link-color: #4fc3f7;
+  --header-bg: linear-gradient(120deg, #0d3a5f, #0a5c3d);
+  --section-bg: #2a2a2a;
+}
+
+/* Apply theme variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.page-header {
+  background: var(--header-bg);
+}
+
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color);
+  }
+  
+  a {
+    color: var(--link-color);
+  }
+}
+
+/* Theme Toggle Button */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: var(--link-color);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 25px;
+  cursor: pointer;
+  font-size: 14px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  transition: all 0.3s ease;
+}
+
+.theme-toggle:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+/* Image Styling */
+img {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: 10px 0;
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.05);
+}
+
+/* Section Styling */
+hr {
+  border: none;
+  border-top: 2px solid var(--link-color);
+  margin: 30px 0;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+  .theme-toggle {
+    top: 10px;
+    right: 10px;
+    padding: 8px 16px;
+    font-size: 12px;
+  }
+}

@@ -50,7 +50,7 @@ During my high school years, I actively participated in robotics competitions an
 ---
 
 ### Guerra de Robots – IEEE IPN (Mexico)
-![IEEE Logo](images/ieee_logo.jpg)
+![IEEE Logo](images/ieee_logo.jpeg)
 
 - Competitor in the **Drone Racing** category  
 - Applied electronics, control systems, and rapid decision-making in high-pressure environments  
@@ -127,4 +127,4 @@ I am currently seeking **internship, freelance, and entry-level opportunities** 
 
 📫 **Contact**  
 - Email: *your_email_here*  
-- LinkedIn: *your_linkedin_here*  
+- LinkedIn: *your_linkedin_here*

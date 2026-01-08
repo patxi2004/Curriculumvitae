@@ -1,0 +1,20 @@
+# GitHub Pages Configuration
+# Select a theme for your GitHub Pages site
+# Available themes: https://pages.github.com/themes/
+
+theme: minima
+
+# Site settings
+title: Francisco Zavala - CV
+description: Curriculum Vitae of Francisco Zavala
+url: https://patxi2004.github.io/Curriculumvitae
+
+# Customization options
+# Uncomment and modify the following lines to customize your theme
+# colors:
+#   background: "#ffffff"
+#   text: "#000000"
+#   link: "#1e90ff"
+# fonts:
+#   body: "Arial, sans-serif"
+#   heading: "Georgia, serif"

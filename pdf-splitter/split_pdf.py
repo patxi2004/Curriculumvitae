@@ -52,6 +52,7 @@ def split_pdf(pdf_path: Path, ranges: list[tuple[int, int]]) -> None:
     """Extract each range from *pdf_path* and write a separate output file."""
     reader = PdfReader(str(pdf_path))
     total_pages = len(reader.pages)
+    print(f"Processing '{pdf_path.name}' ({total_pages} pages)…")
 
     for start, end in ranges:
         if start > total_pages:
@@ -122,7 +123,6 @@ def main() -> None:
         if path.suffix.lower() != ".pdf":
             print(f"WARNING: '{pdf_file}' does not have a .pdf extension.", file=sys.stderr)
 
-        print(f"Processing '{path.name}' ({len(PdfReader(str(path)).pages)} pages)…")
         split_pdf(path, ranges)
 
 
